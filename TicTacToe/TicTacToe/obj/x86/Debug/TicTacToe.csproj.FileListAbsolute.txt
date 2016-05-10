@@ -6,3 +6,11 @@ C:\Users\Simona\documents\visual studio 2010\Projects\TicTacToe\TicTacToe\obj\x8
 C:\Users\Simona\documents\visual studio 2010\Projects\TicTacToe\TicTacToe\obj\x86\Debug\TicTacToe.exe
 C:\Users\Simona\documents\visual studio 2010\Projects\TicTacToe\TicTacToe\obj\x86\Debug\TicTacToe.pdb
 C:\Users\Simona\Documents\Visual Studio 2010\Projects\TicTacToe\TicTacToe\obj\x86\Debug\TicTacToe.csprojResolveAssemblyReference.cache
+C:\Users\krist\Downloads\TicTacToe\TicTacToe\TicTacToe\obj\x86\Debug\TicTacToe.exe
+C:\Users\krist\Downloads\TicTacToe\TicTacToe\TicTacToe\obj\x86\Debug\TicTacToe.pdb
+C:\Users\krist\Downloads\TicTacToe\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\krist\Downloads\TicTacToe\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\krist\Downloads\TicTacToe\TicTacToe\TicTacToe\obj\x86\Debug\TicTacToe.csprojResolveAssemblyReference.cache
+C:\Users\krist\Downloads\TicTacToe\TicTacToe\TicTacToe\obj\x86\Debug\TicTacToe.Form1.resources
+C:\Users\krist\Downloads\TicTacToe\TicTacToe\TicTacToe\obj\x86\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\krist\Downloads\TicTacToe\TicTacToe\TicTacToe\obj\x86\Debug\TicTacToe.csproj.GenerateResource.Cache
